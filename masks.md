@@ -36,7 +36,7 @@ The following studies compare the effectiveness of N95+ vs cloth masks:
   > Collection efficiencies [of ≤7 micron particles] for the cloth masks ranged from 17% to 71% for coughing and 35% to 66% for exhalation. Filtration efficiencies for the cloth masks ranged from 1.4% to 98%, while the fit factors were 1.3 to 7.4 on headforms and 1.0 to 4.0 on human subjects.
   >
   That is, the filtration effectiveness of cloth masks varies over a wide range, and cannot be relied on. (The "cloth mask" that reached 98% filtration efficiency in this study was not a typical example of a cloth mask, it just wasn't certified as an N95.)
-* [Effectiveness of Face Mask or Respirator Use in Indoor Public Settings for Prevention of SARS-CoV-2 Infection — California, February–December 2022](https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm)
+* [Effectiveness of Face Mask or Respirator Use in Indoor Public Settings for Prevention of SARS-CoV-2 Infection — California, February–December 2021](https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm)
   > Wearing an N95/KN95 respirator (aOR = 0.17; 95% CI = 0.05–0.64) or wearing a surgical mask (aOR = 0.34; 95% CI = 0.13–0.90) was associated with lower adjusted odds of a positive test result compared with not wearing a mask (Table 3). Wearing a cloth mask (aOR = 0.44; 95% CI = 0.17–1.17) was associated with lower adjusted odds of a positive test compared with never wearing a face covering but was not statistically significant.
   ![](https://i.imgur.com/aXpLpz7.png)
 
